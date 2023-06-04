@@ -28,4 +28,4 @@ and
 make start-server
 ```
 
-You should see an interface to edit your Google Identity Platform users and custom claims at http://localhost:3000. This is the example app project at `./ui/sites/example-app`. These custom claims are stored in Google Identity Platform so you don't have to pay for extra storage.
+You should see an interface to edit your Google Identity Platform users and custom claims at http://localhost:3000. This is the example app project at `./ui/sites/example-app`. These custom claims are stored in Google Identity Platform so you don't have to set up any extra storage resources for managing user authorization.
