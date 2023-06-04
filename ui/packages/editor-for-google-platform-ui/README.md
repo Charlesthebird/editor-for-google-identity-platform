@@ -28,8 +28,7 @@ const LoggedIn = () => {
     <div>
       <h5>Signed in as {user?.displayName}</h5>
       <button onClick={signOut}>SIGN OUT</button>
-      <br />
-      <UserTable />
+      {/* Your logged-in UI here */}
     </div>
   );
 };
@@ -49,6 +48,7 @@ const LoggedOut = () => {
     <div>
       <h5>Signed out.</h5>
       <button onClick={signIn}>Sign in!</button>
+      {/* Your logged-out UI here */}
     </div>
   );
 };

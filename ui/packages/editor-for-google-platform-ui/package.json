@@ -1,6 +1,6 @@
 {
   "name": "editor-for-google-platform-ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "dev": "vite --port=4000",
     "build": "tsc && vite build",
@@ -11,6 +11,16 @@
   "repository": {
     "url": "https://github.com/Charlesthebird/editor-for-google-identity-platform"
   },
+  "keywords": [
+    "react",
+    "firebase",
+    "firebase-admin",
+    "firebase-admin-sdk",
+    "google-identity-platform",
+    "user-management",
+    "authorization",
+    "authentication"
+  ],
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
