@@ -1,8 +1,8 @@
-# Editor for Google Platform UI
+# Editor for Google Identity Platform UI
 
-This package helps make implementing authentication and authorization with Firebase and Google Identity Platform easier.
+This package helps make implementing authentication and authorization with Firebase and Google Identity Platform easier. It also includes a Google Identity Platform custom claims editor and user management UI. For information on how to run that, see the server and example-app setup instructions at https://github.com/Charlesthebird/editor-for-google-identity-platform#readme.
 
-Just add this `AuthContextProvider` to the root of your app, setting the properties appropriately.
+To use this package in your React app, add this `AuthContextProvider` to the root of your app, setting the properties appropriately.
 
 ```tsx
 import { AuthContextProvider } from "editor-for-google-platform-ui";
