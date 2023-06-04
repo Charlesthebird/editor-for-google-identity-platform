@@ -1,0 +1,10 @@
+{
+	"name": "google-cloud-ui-tools",
+	"private": true,
+	"workspaces": {
+		"packages": [
+			"packages/*",
+			"sites/*"
+		]
+	}
+}
