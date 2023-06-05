@@ -10,6 +10,8 @@ VITE_FIREBASE_AUTH_DOMAIN="your-auth-domain"
 VITE_EDITOR_API_URL="http://localhost:3001"
 ```
 
+You also need to add a `/server/nodejs/fb-admin-key.json` file, which is your Firebase admin private JSON key file that you can generate in your Google Cloud IAM settings for your Firebase Admin Service Account. This should be treated very securely.
+
 Then run
 
 ```shell
