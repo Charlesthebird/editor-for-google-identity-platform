@@ -1,6 +1,6 @@
 {
-  "name": "editor-for-google-platform-ui",
-  "version": "0.0.4",
+  "name": "fast-firebase-setup",
+  "version": "0.0.2",
   "scripts": {
     "dev": "vite --port=4000",
     "build": "tsc && vite build",
