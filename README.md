@@ -1,6 +1,6 @@
 # Editor for Google Identity Platform
 
-This repo includes an example app where you can edit your Google Identity Platform users and their custom claims. The Google Cloud Console UI doesn't provide tools to do this, as far as I know, so this app is useful for managing those custom user attributes for your users. There are also some React wrapper components included, which can help make implementing authentication and authorization easier.
+This repo includes an example app where you can edit your Google Identity Platform users and their custom claims. The Google Cloud Console UI doesn't provide tools to do this, as far as I know. This app is one way that you can manage those custom user attributes for your users. There are also some React wrapper components included, which can help make implementing authentication and authorization easier.
 
 To get this working, create the file: `/ui/sites/example-app/.env`, and add this information to it:
 
